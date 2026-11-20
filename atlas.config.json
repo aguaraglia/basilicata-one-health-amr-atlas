@@ -1,0 +1,33 @@
+{
+  "id": "basilicata_amr_atlas",
+  "regionCode": "BAS",
+  "regionName": "Basilicata",
+  "title": "Basilicata One Health AMR Atlas",
+  "shortName": "Basilicata One Health",
+  "brandIcon": "public/brand/basilicata-region-mark.svg",
+  "language": "it",
+  "publisher": "Codex Vitae ETS",
+  "dataStatusLabel": "Letteratura scientifica aggiornata il 20 novembre 2026 (2 studi, entrambi sulla filiera alimentare). Nessuna struttura nominata e nessuna coordinata di punto. I layer umano, veterinario, ambientale, della fauna selvatica e il contorno regionale sono vuoti. La gran parte della letteratura dell'IZS di Puglia e Basilicata non separa i dati lucani e non è contata. Fonti istituzionali: AR-ISS 2024 (copertura 88,8%, 3 laboratori, numerosità 30-211 isolati, CC BY 4.0) e AIFA Open Data 2024 J01 (CC BY 4.0).",
+  "literaturePlacePhrase": "alla Basilicata",
+  "publicScopeSummary": "Confini ISTAT 2026 letti in UTF-8 (131 comuni, 2 province, regione 17); AR-ISS 2024 (CC BY 4.0; copertura 88,8%, 3 laboratori, numerosità 30-211 isolati); AIFA Open Data 2024, antibatterici J01 (CC BY 4.0); nessuna coordinata di punto e nessuna richiesta a Nominatim; letteratura scientifica del 20 novembre 2026 (2 studi, entrambi alimentari: 1 comune, Picerno e Abriola, e 1 regione). I layer umano, veterinario, ambientale, della fauna selvatica e il contorno regionale sono vuoti: nessuna evidenza pubblicata. La gran parte della letteratura lucana proviene dall'IZS di Puglia e Basilicata e non separa i dati della Basilicata, quindi non è contata. Regione Basilicata, open data regionali, ASP, ASM, AOR San Carlo, CROB, ARPAB, sito IZSPB e il PDF OsMed sono esclusi o non disponibili. Il segnaposto indica il luogo dello studio, non una prevalenza. Potenza 1 studio, Matera 0.",
+  "map": {
+    "center": [
+      40.52,
+      16.1
+    ],
+    "zoom": 8
+  },
+  "overviewLiteratureLabel": "studi sulla mappa",
+  "provinceOutlines": {
+    "file": "public/geography/atlas_provinces.geojson",
+    "labels": {
+      "Potenza": "Potenza · 1 studio",
+      "Matera": "Matera · 0 studi"
+    }
+  },
+  "catalogs": {
+    "layers": "public/data/layer-catalog.json",
+    "evidence": "public/data/evidence-catalog.json",
+    "literature": "public/data/literature-catalog.json"
+  }
+}

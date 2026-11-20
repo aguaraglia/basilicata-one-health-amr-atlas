@@ -1,0 +1,388 @@
+{
+ "result": {
+  "40005636": {
+   "uid": "40005636",
+   "pubdate": "2025 Jan 25",
+   "epubdate": "2025 Jan 25",
+   "source": "Microorganisms",
+   "authors": [
+    {
+     "name": "Di Taranto P",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Petruzzi F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Normanno G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pedarra C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Occhiochiuso G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Faleo S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Didonna A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Galante D",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pace L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Rondinone V",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Trisolini C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Del Sambro L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Beverelli M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Catanzariti R",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Caruso M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Palazzo L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Di Castri A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Parisi A",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Parisi A",
+   "title": "Prevalence and Antimicrobial Resistance of Salmonella Strains Isolated from Chicken Samples in Southern Italy.",
+   "sorttitle": "prevalence and antimicrobial resistance of salmonella strains isolated from chicken samples in southern italy",
+   "volume": "13",
+   "issue": "2",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101625893",
+   "issn": "2076-2607",
+   "essn": "2076-2607",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "40005636"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC11858494"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC11858494;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/microorganisms13020270"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "microorganisms13020270"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2024/12/19 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2025/01/15 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2025/01/23 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2025/02/26 06:29"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2025/02/26 06:28"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2025/02/26 01:23"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2025/01/25 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 39,
+   "fulljournalname": "Microorganisms",
+   "elocationid": "doi: 10.3390/microorganisms13020270",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2025/01/25 00:00",
+   "sortfirstauthor": "Di Taranto P",
+   "vernaculartitle": ""
+  },
+  "42347197": {
+   "uid": "42347197",
+   "pubdate": "2026 May 29",
+   "epubdate": "2026 May 29",
+   "source": "Pathogens",
+   "authors": [
+    {
+     "name": "Di Taranto P",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Petruzzi F",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Romano AC",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Toce M",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Palazzo L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Alessiani A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Capozzi L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Castellana S",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Del Sambro L",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Donatiello A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Pedarra C",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Occhiochiuso G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Castelli G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Barlaam A",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Normanno G",
+     "authtype": "Author",
+     "clusterid": ""
+    },
+    {
+     "name": "Parisi A",
+     "authtype": "Author",
+     "clusterid": ""
+    }
+   ],
+   "lastauthor": "Parisi A",
+   "title": "Campylobacter spp. in Poultry Slaughterhouses: Occurrence, Antimicrobial Resistance, and Virulence-Associated Genes.",
+   "sorttitle": "campylobacter spp in poultry slaughterhouses occurrence antimicrobial resistance and virulence associated genes",
+   "volume": "15",
+   "issue": "6",
+   "pages": "",
+   "lang": [
+    "eng"
+   ],
+   "nlmuniqueid": "101596317",
+   "issn": "",
+   "essn": "2076-0817",
+   "pubtype": [
+    "Journal Article"
+   ],
+   "recordstatus": "PubMed - indexed for MEDLINE",
+   "pubstatus": "3",
+   "articleids": [
+    {
+     "idtype": "pubmed",
+     "idtypen": 1,
+     "value": "42347197"
+    },
+    {
+     "idtype": "pmc",
+     "idtypen": 8,
+     "value": "PMC13305181"
+    },
+    {
+     "idtype": "pmcid",
+     "idtypen": 5,
+     "value": "pmc-id: PMC13305181;"
+    },
+    {
+     "idtype": "doi",
+     "idtypen": 3,
+     "value": "10.3390/pathogens15060585"
+    },
+    {
+     "idtype": "pii",
+     "idtypen": 4,
+     "value": "pathogens15060585"
+    }
+   ],
+   "history": [
+    {
+     "pubstatus": "received",
+     "date": "2026/04/02 00:00"
+    },
+    {
+     "pubstatus": "revised",
+     "date": "2026/05/06 00:00"
+    },
+    {
+     "pubstatus": "accepted",
+     "date": "2026/05/27 00:00"
+    },
+    {
+     "pubstatus": "medline",
+     "date": "2026/06/25 12:38"
+    },
+    {
+     "pubstatus": "pubmed",
+     "date": "2026/06/25 12:37"
+    },
+    {
+     "pubstatus": "entrez",
+     "date": "2026/06/25 09:54"
+    },
+    {
+     "pubstatus": "pmc-release",
+     "date": "2026/05/29 00:00"
+    }
+   ],
+   "references": [],
+   "attributes": [
+    "Has Abstract"
+   ],
+   "pmcrefcount": 50,
+   "fulljournalname": "Pathogens (Basel, Switzerland)",
+   "elocationid": "doi: 10.3390/pathogens15060585",
+   "doctype": "citation",
+   "srccontriblist": [],
+   "booktitle": "",
+   "medium": "",
+   "edition": "",
+   "publisherlocation": "",
+   "publishername": "",
+   "srcdate": "",
+   "reportnumber": "",
+   "availablefromurl": "",
+   "locationlabel": "",
+   "doccontriblist": [],
+   "docdate": "",
+   "bookname": "",
+   "chapter": "",
+   "sortpubdate": "2026/05/29 00:00",
+   "sortfirstauthor": "Di Taranto P",
+   "vernaculartitle": ""
+  }
+ }
+}

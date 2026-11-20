@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "edition": "basilicata_amr_atlas",
+  "selection_note": "Selezione curata e aggiornata il 2026-11-20: studi regionali o locali con collegamento territoriale esplicito alla Basilicata (provincia, comune o struttura nominata, o regione intera). Gli studi dell'IZS di Puglia e Basilicata (sede a Foggia) e gli altri studi multiregionali entrano solo se la quota lucana è separata (titolo/abstract, o testo integrale open access per i casi dubbi). L'afferenza degli autori da sola non basta, e l'afferenza all'IZS di Puglia e Basilicata non è un'afferenza lucana. Esclusi gli studi di sola resistenza antifungina e antivirale, di efficacia terapeutica, diagnostici e in vitro. Non equivale a una revisione sistematica e gli studi locali non sono trasformati in stime regionali.",
+  "records": [
+    {
+      "id": "pubmed_42347197",
+      "year": 2026,
+      "title": "Campylobacter spp. in Poultry Slaughterhouses: Occurrence, Antimicrobial Resistance, and Virulence-Associated Genes.",
+      "authors": "Di Taranto P et al.",
+      "journal": "Pathogens",
+      "scope": "foodborne_amr",
+      "geographic_link": "Picerno e Abriola (PZ), due macelli avicoli (Campylobacter, resistenze 2022). Scala: comune. Luogo verificato sul testo integrale.",
+      "pmid": "42347197",
+      "doi": "10.3390/pathogens15060585",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/42347197/"
+    },
+    {
+      "id": "pubmed_40005636",
+      "year": 2025,
+      "title": "Prevalence and Antimicrobial Resistance of Salmonella Strains Isolated from Chicken Samples in Southern Italy.",
+      "authors": "Di Taranto P et al.",
+      "journal": "Microorganisms",
+      "scope": "foodborne_amr",
+      "geographic_link": "Basilicata, campioni ufficiali di carne di pollo 2021-2023 (Salmonella, resistenze). Scala: regione. Luogo verificato sul testo integrale.",
+      "pmid": "40005636",
+      "doi": "10.3390/microorganisms13020270",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/40005636/"
+    }
+  ]
+}
