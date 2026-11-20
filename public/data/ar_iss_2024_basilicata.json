@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "edition": "basilicata_amr_atlas",
+  "source_id": "ar_iss_2024_basilicata",
+  "period": 2024,
+  "geography": "Basilicata",
+  "scope": "isolati da sangue e liquor; sorveglianza AR-ISS",
+  "coverage": {
+    "value_percent": 88.8,
+    "denominator": "giornate di degenza per ricoveri ordinari per acuti; SDO dimessi 2023",
+    "limitations": "non corregge per gravità; considera i laboratori che hanno inviato emocolture e/o liquor; nel 2024 i referenti lucani elencati sono 3 laboratori (Osp. San Carlo, Potenza; IRCCS CROB, indicato come Potenza; Osp. Madonna delle Grazie, Matera); serie con dati dal 2017"
+  },
+  "indicators": [
+    {
+      "code": "MRSA",
+      "pathogen": "Staphylococcus aureus",
+      "resistance": "meticillina",
+      "isolates": 132,
+      "resistant": 37,
+      "percent": 28.0,
+      "ci95": "20.6-36.5"
+    },
+    {
+      "code": "VRE-faecium",
+      "pathogen": "Enterococcus faecium",
+      "resistance": "vancomicina",
+      "isolates": 47,
+      "resistant": 17,
+      "percent": 36.2,
+      "ci95": "22.7-51.5"
+    },
+    {
+      "code": "CREC",
+      "pathogen": "Escherichia coli",
+      "resistance": "cefalosporine di terza generazione",
+      "isolates": 211,
+      "resistant": 88,
+      "percent": 41.7,
+      "ci95": "35.0-48.7"
+    },
+    {
+      "code": "CRKP",
+      "pathogen": "Klebsiella pneumoniae",
+      "resistance": "carbapenemi",
+      "isolates": 123,
+      "resistant": 69,
+      "percent": 56.1,
+      "ci95": "46.9-65.0"
+    },
+    {
+      "code": "CRPA",
+      "pathogen": "Pseudomonas aeruginosa",
+      "resistance": "carbapenemi",
+      "isolates": 38,
+      "resistant": 11,
+      "percent": 28.9,
+      "ci95": "15.4-45.9"
+    },
+    {
+      "code": "CRAS",
+      "pathogen": "Acinetobacter species",
+      "resistance": "carbapenemi",
+      "isolates": 30,
+      "resistant": 22,
+      "percent": 73.3,
+      "ci95": "54.1-87.7"
+    }
+  ],
+  "trend_note": "Serie 2017-2024 nell'Appendice A: MRSA 33,3% (2017) -> 40,4% (2021) -> 28,0% (2024); VRE-faecium 0/5 (2017) -> 36,2% (2024); CREC 35,8% (2017) -> 41,7% (2024); CRKP 22,2% (2017, 18 isolati) -> 66,1% (2021) -> 56,1% (2024); CRPA 30,8% (2017, 13 isolati) -> 28,9% (2024); CRAS 85,0% (2018) -> 100% (2021) -> 73,3% (2024). Numerosità piccole (30-211 isolati nel 2024) e rete di 3 laboratori: le variazioni riflettono anche la composizione della rete.",
+  "license": "CC BY 4.0 (Note legali ISS, valide anche per EpiCentro: https://www.iss.it/contatti ; https://www.epicentro.iss.it/chi-siamo/disclaimer)",
+  "source": {
+    "title": "AR-ISS: sorveglianza nazionale dell Antibiotico-Resistenza. Dati 2024",
+    "report": "RIS-5/2025",
+    "table": "Tabella 1 (copertura, p. 12) e Appendice A, Regione Basilicata (p. 40 a stampa, p. 48 del PDF); referenti dei laboratori p. 2",
+    "url": "https://www.epicentro.iss.it/antibiotico-resistenza/ar-iss/RIS-5_2025.pdf",
+    "acquired_at": "2026-11-20",
+    "sha256": "50174DC846E19C6EAD2EA4D55982FC098487251A5EDAB8D484D6101B31482F0F"
+  }
+}
